@@ -4,4 +4,5 @@
 
 上面是效果图，下面是对应实现
 
-![](gif_1-1.gif)
+
+<img src="gif_1-1.gif" width="50%" height="50%">
